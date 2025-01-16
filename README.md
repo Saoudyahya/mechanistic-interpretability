@@ -176,9 +176,9 @@ If you use this tool in your research, please cite:
 ```
 @software{switch_transformer_viz,
   title={Switch Transformer Visualizer with Mechanistic Interpretability},
-  author={[Your Name]},
+  author={[Saoud Yahya]},
   year={2025},
-  url={[Repository URL]}
+  url={[[Repository URL](https://github.com/Saoudyahya/mechanistic-interpretability/edit/main/README.md)]}
 }
 ```
 
